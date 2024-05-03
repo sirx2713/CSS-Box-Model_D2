@@ -1,0 +1,41 @@
+body{
+    background-color: #FEFDED;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    color: #2C4E80;
+}
+.first-div{
+    height: 200px;
+    width: 200px;
+    background-color: coral;
+    padding: 20px;
+    border: 10px solid bisque;
+}
+.second-div{
+    height: 200px;
+    width: 200px;
+    background-color: azure;
+    padding: 20px;
+    border: 10px solid bisque;
+    margin-left: 300px;
+}
+.third-div{
+    height: 200px;
+    width: 200px;
+    background-color: #FFC55A;
+    padding: 20px;
+    border: 10px solid bisque;
+    margin-left: 600px;
+}
+.fourth-div{
+    height: 50px;
+    width: inherit;
+    background-color: #C6EBC5;
+    padding: 10px;
+}
+footer{
+    text-align: center;
+    color: white;
+}
